@@ -25,7 +25,9 @@ function App() {
       </div>
 
       <div className='Search-box'>
-        <input type="search" name="Search" id="" />
+        
+          <input type="text" placeholder='What are you looking for?' id='search'/>
+        
       </div>
 
     </div>
